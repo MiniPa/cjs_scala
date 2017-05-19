@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hadoop.gplcompression:hadoop-lzo:0.4.19">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/hadoop/gplcompression/hadoop-lzo/0.4.19/hadoop-lzo-0.4.19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/com/hadoop/gplcompression/hadoop-lzo/0.4.19/hadoop-lzo-0.4.19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/hadoop/gplcompression/hadoop-lzo/0.4.19/hadoop-lzo-0.4.19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
